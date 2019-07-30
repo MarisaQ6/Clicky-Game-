@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Freddy Krueger",
+      "image": "Clicky-Game-\images\220px-Freddy_Krueger_(Robert_Englund).jpg",
+      "occupation": "Janitor",
+      "location": "Boiler Room"
+    },
+    {
+      "id": 2,
+      "name": "Michael Myers",
+      "image": "Clicky-Game-\images\Halloween-2018-Deleted-Scene-Dog.jpg",
+      "occupation": "Brother",
+      "location": "His Sister's Room"
+    },
+    {
+      "id": 3,
+      "name": "Alien",
+      "image": "Clicky-Game-\images\alien.jpg",
+      "occupation": "Mother",
+      "location": "Outerspace"
+    },
+    {
+      "id": 4,
+      "name": "Hellraiser",
+      "image": "Clicky-Game-\images\hellraiser.jpg",
+      "occupation": "Pro Dom",
+      "location": "Fancy Box"
+    },
+    {
+      "id": 5,
+      "name": "It 2.0",
+      "image": "Clicky-Game-\images\it1.jpg",
+      "occupation": "Clown",
+      "location": "The Sewer"
+    },
+    {
+      "id": 6,
+      "name": "It",
+      "image": "Clicky-Game-\images\IT2.jpg",
+      "occupation": "Clown",
+      "location": "The Sewer"
+    },
+    {
+      "id": 7,
+      "name": "Scream Guy",
+      "image": "Clicky-Game-\images\scream-header.webp",
+      "occupation": "Phone Salesman",
+      "location": "Outside Your House"
+    },
+    {
+      "id": 8,
+      "name": "Jigsaw",
+      "image": "Clicky-Game-\images\saw02_800x.jpg",
+      "occupation": "Game Maker",
+      "location": "A Secret Lab"
+    },
+    {
+      "id": 9,
+      "name": "Jason Vorhees",
+      "image": "Clicky-Game-\images\jasonv.jpg",
+      "occupation": "Swimmer",
+      "location": "Camp Crystal Lake"
+    },
+    {
+      "id": 10,
+      "name": "Annabelle",
+      "image": "Clicky-Game-\images\annabelle-3.jpg",
+      "occupation": "Friend",
+      "location": "Grandma's Locked Attic"
+    },
+    {
+      "id": 11,
+      "name": "OG Dracula",
+      "image": "Clicky-Game-\images\drac1.jpg",
+      "occupation": "Vampire",
+      "location": "Transylvania"
+    },
+    {
+      "id": 12,
+      "name": "Stoker's Dracula",
+      "image": "Clicky-Game-\images\drac2.jpg",
+      "occupation": "Vampire",
+      "location": "Transylvania"
+    }
+  ]
+  
